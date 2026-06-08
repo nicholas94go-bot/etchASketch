@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 480px;          /* Total size remains consistent */
+  height: 480px;
+  border: 2px solid #000;
+}
+
+.square {
+  box-sizing: border-box;
+  border: 1px solid #090808;
+  
+}
