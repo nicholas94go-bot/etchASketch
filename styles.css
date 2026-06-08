@@ -4,10 +4,19 @@
   width: 480px;          /* Total size remains consistent */
   height: 480px;
   border: 2px solid #000;
+  background-color: #fff;
+  
 }
 
 .square {
   box-sizing: border-box;
   border: 1px solid #090808;
   
+}
+html {
+  background-color: #b0adad;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }

@@ -1,1 +1,2 @@
 # etchASketch
+This is a simple Etch A Sketch web application that allows users to draw on a grid by hovering over the squares. The grid size can be adjusted, and the drawing color changes randomly with each hover.
